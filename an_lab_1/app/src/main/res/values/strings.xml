@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spinner</string>
+    <string-array name="names">
+        <item>Alex</item>
+        <item>Andrew</item>
+        <item>Nick</item>
+    </string-array>
+
+</resources>
